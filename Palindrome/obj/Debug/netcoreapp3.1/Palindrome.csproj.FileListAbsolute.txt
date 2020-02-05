@@ -1,0 +1,11 @@
+/Users/andrewmcmahon/Desktop/Repos/Palindrome/Palindrome/obj/Debug/netcoreapp3.1/Palindrome.csprojAssemblyReference.cache
+/Users/andrewmcmahon/Desktop/Repos/Palindrome/Palindrome/obj/Debug/netcoreapp3.1/Palindrome.AssemblyInfoInputs.cache
+/Users/andrewmcmahon/Desktop/Repos/Palindrome/Palindrome/obj/Debug/netcoreapp3.1/Palindrome.AssemblyInfo.cs
+/Users/andrewmcmahon/Desktop/Repos/Palindrome/Palindrome/bin/Debug/netcoreapp3.1/Palindrome
+/Users/andrewmcmahon/Desktop/Repos/Palindrome/Palindrome/bin/Debug/netcoreapp3.1/Palindrome.deps.json
+/Users/andrewmcmahon/Desktop/Repos/Palindrome/Palindrome/bin/Debug/netcoreapp3.1/Palindrome.runtimeconfig.json
+/Users/andrewmcmahon/Desktop/Repos/Palindrome/Palindrome/bin/Debug/netcoreapp3.1/Palindrome.runtimeconfig.dev.json
+/Users/andrewmcmahon/Desktop/Repos/Palindrome/Palindrome/bin/Debug/netcoreapp3.1/Palindrome.dll
+/Users/andrewmcmahon/Desktop/Repos/Palindrome/Palindrome/bin/Debug/netcoreapp3.1/Palindrome.pdb
+/Users/andrewmcmahon/Desktop/Repos/Palindrome/Palindrome/obj/Debug/netcoreapp3.1/Palindrome.dll
+/Users/andrewmcmahon/Desktop/Repos/Palindrome/Palindrome/obj/Debug/netcoreapp3.1/Palindrome.pdb
