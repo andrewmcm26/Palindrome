@@ -16,7 +16,8 @@ namespace Palindrome
             //var rev = new string (ch);
             //return word == rev;
 
-            return word.SequenceEqual(word.Reverse());
+            
+            return word.ToLower().SequenceEqual(word.ToLower().Reverse());
 
         }
     }

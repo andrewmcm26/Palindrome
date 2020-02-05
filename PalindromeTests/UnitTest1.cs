@@ -13,6 +13,7 @@ namespace PalindromeTests
         [InlineData ("month", false)]
         [InlineData ("a", true)]
         [InlineData ("", true)]
+        [InlineData ("Racecar", true)]
 
         public void PalindromeTester(string word, bool expected)
         {
